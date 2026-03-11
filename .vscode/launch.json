@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SecureUSB",
+            "request": "launch",
+            "mainClass": "secureusb.Main",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-25.0.1\\lib\" --add-modules javafx.controls"
+        }
+    ]
+}
