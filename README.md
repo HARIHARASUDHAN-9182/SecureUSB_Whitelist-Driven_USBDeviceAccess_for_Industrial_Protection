@@ -386,22 +386,5 @@ SecureUSB/
 5. **Mobile App**: Remote monitoring via Android/iOS
 6. **Blockchain Logging**: Immutable audit trail
 
----
 
-## License
 
-This project is for educational and industrial use. Not licensed for commercial distribution without authorization.
-
----
-
-## Contact
-
-For technical support or inquiries:
-- Email: support@secureusb.local
-- GitHub: [SecureUSB Repository]
-
----
-
-**Version**: 1.0  
-**Last Updated**: January 2024  
-**Author**: SecureUSB Development Team
